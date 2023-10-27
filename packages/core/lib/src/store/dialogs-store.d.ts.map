@@ -1,1 +1,0 @@
-{"version":3,"file":"dialogs-store.d.ts","sourceRoot":"","sources":["../../../src/store/dialogs-store.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,cAAc,CAAC;AAEzC,qBAAa,YAAY;IACX,OAAO,CAAC,QAAQ,CAAC,SAAS;gBAAT,SAAS,EAAE,SAAS;IAQ1C,OAAO,UAAM;IAEb,UAAU;CAGlB"}
