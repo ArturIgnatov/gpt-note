@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "lib",
+    "module": "esnext",
+    "target": "es6",
+    "lib": ["es6", "dom", "es2017"],
+    "sourceMap": false,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "rootDir": "./",
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "useDefineForClassFields": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "composite": true,
+    "noImplicitAny": true,
+    "importHelpers": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": false,
+    "declaration": true,
+    "declarationMap": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-jsx"
+  },
+  "exclude": [
+    "lib",
+    "node_modules",
+    "build",
+    "scripts",
+    "acceptance-tests",
+    "webpack",
+  ]
+}

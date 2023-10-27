@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start:desktop": "npx lerna run start:dev --scope=@app/desktop"
+  },
+  "devDependencies": {
+    "lerna": "^7.0.2"
+  }
+}
